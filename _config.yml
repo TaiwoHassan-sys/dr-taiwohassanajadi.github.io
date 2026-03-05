@@ -1,11 +1,14 @@
-# -----------------------------------------------------------------------------
+* name/title: **Taiwo Hassan Ajadi**
+* affiliation: **Centre for Artificial Intelligence & Multidisciplinary Innovation Studies, UNISA**
+* email(s): `ajaditaiwo530@gmail.com`, `researchunlimited2023@gmail.com`
+* social links: Scholar, ORCID, ResearchGate, LinkedIn# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Dr. Taiwo Hassan Ajadi # the website title (if blank, full name will be used instead)
+first_name: Taiwo
+middle_name: H.
+last_name: Ajadi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
